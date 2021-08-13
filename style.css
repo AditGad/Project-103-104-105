@@ -1,0 +1,12 @@
+body{
+    background:Black;
+    color:cyan;
+
+}
+.heading{
+    width: 80px;font-size:25px;
+
+}
+.nameofobjects,#objectname,#objectaccuracy{
+    color:yellow;
+}
